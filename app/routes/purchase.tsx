@@ -5,10 +5,10 @@ export default function Purchase() {
     
     <div className="flex justify-center">
       <Helmet>
-      <script src="https://shoppy.gg/api/embed.js" type="text/javascript" />
-    </Helmet>
+        <script src="https://shoppy.gg/api/embed.js" type="text/javascript" />
+      </Helmet>
       <div className="flex-col">
-        <h1 className="flex text-6xl justify-center mb-5">Purchase</h1>
+        <h1 className="flex text-6xl font-bold justify-center mb-5">Purchase</h1>
         <h2 className="flex text-3xl justify-center mb-7 text-main-700">Choose your build</h2>
         <div className="flex flex-row gap-10">
           <div className="card w-80 bg-base-200 shadow-2xl">
