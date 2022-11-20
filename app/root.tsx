@@ -22,7 +22,7 @@ export function links() {
 
 export default function App() {
   return (
-    <html data-theme="dracula" lang="en">
+    <html data-theme="main" lang="en">
       <head>
         <Meta />
         <Links />
